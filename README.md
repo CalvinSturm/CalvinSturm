@@ -1,5 +1,3 @@
-# Calvin Sturm
-
 > Building local-first AI systems, trust infrastructure, and performance-oriented desktop software.
 
 I build local-first agent runtimes, trust-gated tooling, observability dashboards, and performance-oriented desktop software. My work focuses on reliability, reproducibility, operator control, and practical systems design.
