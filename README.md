@@ -35,3 +35,11 @@ That mix shaped how I approach systems:
 - software should help people reach a successful outcome quickly
 
 I care about building tools that are fast, understandable, and dependable under real workflow constraints.
+
+## Support My Work
+
+I build local-first AI systems, trust infrastructure, and performance-oriented desktop software.
+
+- GitHub: https://github.com/CalvinSturm
+- GitHub Sponsors: https://github.com/sponsors/CalvinSturm?frequency=recurring&sponsor=CalvinSturm
+- Ko-fi: https://ko-fi.com/calvinsturm
