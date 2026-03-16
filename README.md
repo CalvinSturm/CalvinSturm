@@ -2,7 +2,7 @@
 
 > I build fast, local-first software for Windows.
 
-I ship focused desktop products and the runtime systems behind them: high-performance media tools, local AI applications, and inspectable execution layers designed to be fast, clear, and dependable.
+I ship focused desktop products and the systems behind them: high-performance media tools, local AI software, and inspectable execution layers designed to be fast, clear, and dependable.
 
 ## Try these first
 
@@ -21,7 +21,7 @@ I ship focused desktop products and the runtime systems behind them: high-perfor
 - **FastPlay** — early release, [Download now](https://github.com/CalvinSturm/FastPlay/releases/download/v0.1.0/fastplay-0.1.0-x86_64.msi)
 - **LocalAgent** — actively released and documented
 - **VideoForge-Native** — active alpha build
-- **OmniBabel** — speech and translation tooling for real-time multimodal communication
+- **OmniBabel** — real-time speech and translation tooling for local desktop workflows
 - **trust** / **runscope** — supporting infrastructure for controlled execution and run inspection
 
 ## Support my work
