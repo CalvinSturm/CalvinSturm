@@ -1,35 +1,28 @@
 # Calvin Sturm
 
-> Building software that makes runtimes easier to inspect, control, and trust.
+> I build fast, local-first software for Windows.
 
-I build local-first agent runtimes, trust-gated tooling, run inspection tools, and focused desktop applications designed to be fast, clear, and dependable.
+I ship focused desktop products and the runtime systems behind them: high-performance media tools, local AI applications, and inspectable execution layers designed to be fast, clear, and dependable.
 
-## Start here
+## Try these first
 
-- [LocalAgent](https://github.com/CalvinSturm/LocalAgent) - local-first agent runtime with explicit trust controls, reproducible runs, and eval-driven improvement
-- [runscope](https://github.com/CalvinSturm/runscope) - run history, replay, and inspection dashboard for agent workflows
-- [trust](https://github.com/CalvinSturm/trust) - policy and approval infrastructure for bounded tool execution
+- [FastPlay](https://github.com/CalvinSturm/FastPlay) - Windows video player built around startup speed, responsive seeking, and playback feel
+- [LocalAgent](https://github.com/CalvinSturm/LocalAgent) - local-first agent runtime with explicit trust controls, replayable runs, and built-in evals
+- [VideoForge-Native](https://github.com/CalvinSturm/VideoForge-Native) - local-first video enhancement engine for high-performance desktop workflows
 
-Together, they reflect the core of my work: local-first AI systems that are inspectable, reproducible, and built to keep operators in control.
+## What I build
 
-## Selected projects
+- **Windows-first desktop products** with tight UX and practical performance goals
+- **Local-first AI software** that minimizes cloud dependence
+- **Inspectable runtime systems** with explicit permissions, replayability, and operator control
 
-- [FastPlay](https://github.com/CalvinSturm/FastPlay) - Windows video player focused on startup speed, seek responsiveness, and playback feel
-- [VideoForge-Native](https://github.com/CalvinSturm/VideoForge-Native) - native local-first video enhancement pipeline
-- [OmniBabel](https://github.com/CalvinSturm/OmniBabel) - applied AI product work for speech, translation, and multimodal communication
+## Current status
 
-## How I build
-
-I build systems that are:
-
-- local-first where possible
-- explicit about permissions and side effects
-- observable when things go wrong
-- reproducible across runs
-- practical instead of over-engineered
-- built to keep operators in control
-
-A lot of AI tooling still hides too much runtime behavior and gives weak feedback when something fails. I care about systems that are easier to inspect, easier to debug, and more dependable in real use.
+- **FastPlay** — early release, [Download now](https://github.com/CalvinSturm/FastPlay/releases/download/v0.1.0/fastplay-0.1.0-x86_64.msi)
+- **LocalAgent** — actively released and documented
+- **VideoForge-Native** — active alpha build
+- **OmniBabel** — speech and translation tooling for real-time multimodal communication
+- **trust** / **runscope** — supporting infrastructure for controlled execution and run inspection
 
 ## Support my work
 
