@@ -6,13 +6,11 @@ I build local-first agent runtimes, trust-gated tooling, run inspection tools, a
 
 ## Start here
 
-Start with these:
-
 - [LocalAgent](https://github.com/CalvinSturm/LocalAgent) - local-first agent runtime with explicit trust controls, reproducible runs, and eval-driven improvement
 - [runscope](https://github.com/CalvinSturm/runscope) - run history, replay, and inspection dashboard for agent workflows
 - [trust](https://github.com/CalvinSturm/trust) - policy and approval infrastructure for bounded tool execution
 
-Together, they reflect the core direction of my work: local-first AI systems that are inspectable, reproducible, and built to keep operators in control.
+Together, they reflect the core of my work: local-first AI systems that are inspectable, reproducible, and built to keep operators in control.
 
 ## Selected projects
 
@@ -35,5 +33,5 @@ A lot of AI tooling still hides too much runtime behavior and gives weak feedbac
 
 ## Support my work
 
-- GitHub Sponsors: [github.com/sponsors/CalvinSturm](https://github.com/sponsors/CalvinSturm?frequency=recurring&sponsor=CalvinSturm)
-- Ko-fi: [ko-fi.com/calvinsturm](https://ko-fi.com/calvinsturm)
+- [GitHub Sponsors](https://github.com/sponsors/CalvinSturm?frequency=recurring&sponsor=CalvinSturm)
+- [Ko-fi](https://ko-fi.com/calvinsturm)
