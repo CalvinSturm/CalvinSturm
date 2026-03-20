@@ -26,5 +26,4 @@ I ship focused desktop products and the systems behind them: high-performance me
 
 ## Support my work
 
-- [GitHub Sponsors](https://github.com/sponsors/CalvinSturm?frequency=recurring&sponsor=CalvinSturm)
 - [Ko-fi](https://ko-fi.com/calvinsturm)
