@@ -18,7 +18,7 @@ I ship focused desktop products and the systems behind them: high-performance me
 
 ## Current status
 
-- **FastPlay** — early release, [Download now](https://github.com/CalvinSturm/FastPlay/releases/download/v0.1.1/fastplay-0.1.1-x86_64.msi)
+- **FastPlay** — early release, [Download now](https://github.com/CalvinSturm/FastPlay/releases/download/v0.1.1/fastplay-0.1.2-x86_64.msi)
 - **LocalAgent** — actively released and documented
 - **VideoForge-Native** — active alpha build
 - **OmniBabel** — real-time speech and translation tooling for local desktop workflows
