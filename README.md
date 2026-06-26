@@ -6,24 +6,24 @@ I ship focused desktop products and the systems behind them: high-performance me
 
 ## Try these first
 
-- [FastPlay](https://github.com/CalvinSturm/FastPlay) - Windows video player built around startup speed, responsive seeking, and playback feel
-- [LocalAgent](https://github.com/CalvinSturm/LocalAgent) - local-first agent runtime with explicit trust controls, replayable runs, and built-in evals
-- [VideoForge-Native](https://github.com/CalvinSturm/VideoForge-Native) - local-first video enhancement engine for high-performance desktop workflows
+* [FastPlay](https://github.com/CalvinSturm/FastPlay) - keyboard-first Windows video player for fast local playback, smooth scrubbing, and ergonomic control across monitors
+* [LocalAgent](https://github.com/CalvinSturm/LocalAgent) - local-first agent runtime with explicit trust controls, replayable runs, and built-in evals
+* [VideoForge-Native](https://github.com/CalvinSturm/VideoForge-Native) - local-first video enhancement engine for high-performance desktop workflows
 
 ## What I build
 
-- **Windows-first desktop products** with tight UX and practical performance goals
-- **Local-first AI software** that minimizes cloud dependence
-- **Inspectable runtime systems** with explicit permissions, replayability, and operator control
+* **Windows-first desktop products** with tight UX and practical performance goals
+* **Local-first AI software** that minimizes cloud dependence
+* **Inspectable runtime systems** with explicit permissions, replayability, and operator control
 
 ## Current status
 
-- **FastPlay** — early release, [Download MSI now](https://github.com/CalvinSturm/FastPlay/releases/latest)
-- **LocalAgent** — actively released and documented
-- **VideoForge-Native** — active alpha build
-- **OmniBabel** — real-time speech and translation tooling for local desktop workflows
-- **trust** / **runscope** — supporting infrastructure for controlled execution and run inspection
+* **FastPlay** — early release, [Download MSI now](https://github.com/CalvinSturm/FastPlay/releases/latest)
+* **LocalAgent** — actively released and documented
+* **VideoForge-Native** — active alpha build
+* **OmniBabel** — real-time speech and translation tooling for local desktop workflows
+* **trust** / **runscope** — supporting infrastructure for controlled execution and run inspection
 
 ## Support my work
 
-- [Ko-fi](https://ko-fi.com/calvinsturm)
+* [Ko-fi](https://ko-fi.com/calvinsturm)
