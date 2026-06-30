@@ -1,28 +1,26 @@
 # Calvin Sturm
 
-> I build fast, local-first software for Windows.
+> I build local-first Windows software that is fast, practical, and easy to trust.
 
-I ship focused desktop products and the systems behind them: high-performance media tools, local AI software, and inspectable execution layers designed to be fast, clear, and dependable.
+I ship focused desktop products and the systems behind them: native media tools, local AI software, and inspectable runtimes designed for clear behavior, real performance, and user control.
 
 ## Try these first
 
-* [FastPlay](https://github.com/CalvinSturm/FastPlay) - keyboard-first Windows video player for fast local playback, smooth scrubbing, and ergonomic control across monitors
-* [LocalAgent](https://github.com/CalvinSturm/LocalAgent) - local-first agent runtime with explicit trust controls, replayable runs, and built-in evals
-* [VideoForge-Native](https://github.com/CalvinSturm/VideoForge-Native) - local-first video enhancement engine for high-performance desktop workflows
+* [FastPlay](https://github.com/CalvinSturm/FastPlay): keyboard-first Windows video player for fast local playback, smooth scrubbing, and ergonomic control across monitors.
+* [FastCast](https://github.com/CalvinSturm/FastCast-releases/releases/latest): native Windows screen recorder and live streamer for quick captures, local MP4 recording, and custom RTMP/RTMPS streaming.
+* [LocalAgent](https://github.com/CalvinSturm/LocalAgent): local-first agent runtime with explicit trust controls, replayable runs, and built-in evals.
 
 ## What I build
 
-* **Windows-first desktop products** with tight UX and practical performance goals
-* **Local-first AI software** that minimizes cloud dependence
-* **Inspectable runtime systems** with explicit permissions, replayability, and operator control
+* **Windows-first desktop products** with focused UX and practical performance goals.
+* **Local-first AI software** that minimizes cloud dependence and keeps users in control.
+* **Inspectable runtime systems** with explicit permissions, replayability, and operator oversight.
 
 ## Current status
 
-* **FastPlay** — early release, [Download MSI now](https://github.com/CalvinSturm/FastPlay/releases/latest)
-* **LocalAgent** — actively released and documented
-* **VideoForge-Native** — active alpha build
-* **OmniBabel** — real-time speech and translation tooling for local desktop workflows
-* **trust** / **runscope** — supporting infrastructure for controlled execution and run inspection
+* **FastPlay:** early release. [Download the latest MSI](https://github.com/CalvinSturm/FastPlay/releases/latest)
+* **FastCast:** Open Beta. [Download the latest ZIP](https://github.com/CalvinSturm/FastCast-releases/releases/latest)
+* **LocalAgent:** actively released and documented.
 
 ## Support my work
 
